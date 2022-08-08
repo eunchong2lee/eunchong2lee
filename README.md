@@ -11,7 +11,7 @@
  
 ***
 
-### Tech-stack
+## Tech-stack
 
 <div>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -30,17 +30,25 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<br>
+
+### BLOCK CHAIN
+
 <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/truffle-000000?style=for-the-badge&logo=truffle&logoColor=white">
 <img src="https://img.shields.io/badge/jsonrpc-000000?style=for-the-badge&logo=JSON&logoColor=white">
 <img src="https://img.shields.io/badge/geth-000000?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/ganache-F09D13?style=for-the-badge&logo=ganache&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
 </div>
 
 ***
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunchong2lee&show_icons=true&theme=radical)
 
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
