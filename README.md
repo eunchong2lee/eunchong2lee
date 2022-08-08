@@ -6,9 +6,9 @@
  
 ***
 
-<h2 align="center">:blush: CONTACT :blush:</h2>
-
 <div align=center>
+
+:blush: CONTACT :blush:
 
 <a href="mailto:tlfqjrjs1327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlfqjrjs1327@gmail.com"/></a>
 <a href="mailto:tlfqjrjs1234@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:tlfqjrjs1234@naver.com"/></a>
@@ -18,7 +18,8 @@
 
 
 <div align=center>
-<h2 align="center">Notion</h2>
+
+### Notion
 
 <a href="https://concrete-bulb-957.notion.site/Eunchong-Notion-73bc1261ea084cfeaf46247d069273a6"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://concrete-bulb-957.notion.site/Eunchong-Notion-73bc1261ea084cfeaf46247d069273a6"/></a>
  
