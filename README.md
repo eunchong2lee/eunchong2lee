@@ -13,7 +13,7 @@
 <a href="mailto:tlfqjrjs1327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlfqjrjs1327@gmail.com"/></a>
 <a href="mailto:tlfqjrjs1234@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:tlfqjrjs1234@naver.com"/></a>
 <a href="https://www.instagram.com/eunpoung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunpoung/"/></a>
-<a href=https://www.facebook.com/profile.php?id=100008009585438"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008009585438"/></a>
+<a href="https://www.facebook.com/profile.php?id=100008009585438"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008009585438"/></a>
  </div>
 
 <div align=center>
