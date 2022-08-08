@@ -3,7 +3,9 @@
 <!--
 **eunchong2lee/eunchong2lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunchong2lee&count_bg=%23C5C83D&title_bg=%233550CF&icon=typescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ </div>
 
 Here are some ideas to get you started:
 
