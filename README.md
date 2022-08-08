@@ -6,7 +6,7 @@
  
 ***
 
-<h2 align="center">contact</h2>
+<h2 align="center">:blush: CONTACT :blush:</h2>
 
 <div align=center>
 
@@ -16,11 +16,12 @@
 <a href="https://www.facebook.com/profile.php?id=100008009585438"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008009585438"/></a>
  </div>
 
+
 <div align=center>
+<h2 align="center">Notion</h2>
+
+<a href="https://concrete-bulb-957.notion.site/Eunchong-Notion-73bc1261ea084cfeaf46247d069273a6"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://concrete-bulb-957.notion.site/Eunchong-Notion-73bc1261ea084cfeaf46247d069273a6"/></a>
  
-*** 
- 
-노션링크
  </div>
  
 ***
