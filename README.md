@@ -16,14 +16,20 @@
 <br>
 <img src="https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black">
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white">
+<img src="https://img.shields.io/badge/axios-DA291C?style=for-the-badge&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/cheerio-EF4678?style=for-the-badge&logo=cheerio&logoColor=white">
+<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+<img src="https://img.shields.io/badge/CRON-BE95FF?style=for-the-badge&logo=CRON&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/truffle-000000?style=for-the-badge&logo=truffle&logoColor=white">
-<img src="https://img.shields.io/badge/jsonrpc-000000?style=for-the-badge&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/geth-000000?style=for-the-badge&logo=geth&logoColor=white">
+<img src="https://img.shields.io/badge/jsonrpc-000000?style=for-the-badge&logo=JSON&logoColor=white">
+<img src="https://img.shields.io/badge/geth-000000?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/ganache-F09D13?style=for-the-badge&logo=ganache&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
