@@ -1,13 +1,18 @@
-### Hi there 👋
+## Hi My Name is Eunchong Lee 👋
 
+***
 
+### Hits
 
 <div align=center>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunchong2lee&count_bg=%23C5C83D&title_bg=%233550CF&icon=typescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  </div>
+ 
+***
 
 ### Tech-stack
+
 <div>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -35,3 +40,7 @@
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
 </div>
+
+***
+
+
