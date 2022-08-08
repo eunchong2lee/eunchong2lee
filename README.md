@@ -1,14 +1,24 @@
 
 <div align=center>
-
-### Hits
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunchong2lee&count_bg=%23C5C83D&title_bg=%233550CF&icon=typescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  </div>
  
 ***
 
+<h2 align="center">contact</h2>
+
 <div align=center>
+
+<a href="mailto:tlfqjrjs1327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tlfqjrjs1327@gmail.com"/></a>
+<a href="mailto:tlfqjrjs1234@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:tlfqjrjs1234@naver.com"/></a>
+<a href="https://www.instagram.com/eunpoung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunpoung/"/></a>
+<a href=https://www.facebook.com/profile.php?id=100008009585438"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008009585438"/></a>
+ </div>
+
+<div align=center>
+ 
+*** 
  
 노션링크
  </div>
@@ -19,7 +29,7 @@
 
 <div align=center>
 
-## Tech-stack
+## :hammer: Tech-stack :wrench:
 
 <br>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
