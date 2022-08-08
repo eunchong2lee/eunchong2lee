@@ -3,7 +3,7 @@
 <!--
 **eunchong2lee/eunchong2lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BFC83D&title_bg=%231A39CB&icon=typescript.svg&icon_color=%23CCCED9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunchong2lee&count_bg=%23C5C83D&title_bg=%233550CF&icon=typescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
