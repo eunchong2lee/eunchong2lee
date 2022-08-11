@@ -19,7 +19,7 @@
 
 <div align=center>
 
-### Notion
+### Portfolio
 
 <a href="https://concrete-bulb-957.notion.site/Eunchong-Notion-73bc1261ea084cfeaf46247d069273a6"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://concrete-bulb-957.notion.site/Eunchong-Notion-73bc1261ea084cfeaf46247d069273a6"/></a>
  
